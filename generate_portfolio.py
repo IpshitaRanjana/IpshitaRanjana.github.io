@@ -20,7 +20,7 @@ html_output = index_template.render(**data)
 # resume_output = resume_template.render(name=data["name"], label=data["label"]...)
 
 # Write the output to an HTML file
-with Path("resume_final.html").open("w", encoding="utf-8") as f:
+with Path("index.html").open("w", encoding="utf-8") as f:
     f.write(html_output)
 
 print("HTML file generated successfully!")

@@ -1,0 +1,236 @@
+{
+  "name": "Ipshita Ranjana Sahoo",
+  "label": "Battery Engineer",
+  "image_path": "profile_picture.jpeg",
+  "contact": {
+    "email": "ipshitaranjana@gmail.com",
+    "phone": "916-260-1994",
+    "location": "Mountain View, CA, USA"
+  },
+  "summary": "Battery Engineer with 4 years of experience. I aspire to become a Technical Project Manager to implement the skills acquired through my training and experience as an engineer.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Medium",
+      "url": "https://medium.com/@ipshitaranjana",
+      "svg_path": "img/Medium.svg"
+    },
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/ipshitaranjana/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Ipshu06",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Lyten, Inc",
+      "position": "Cell Test Engineer",
+      "url": "https://lyten.com",
+      "start_date": "01/03/2023",
+      "end_date": "10/26/2024",
+      "summary": "Conducted battery failure analysis and testing on Li-S batteries (pouch and 18650) to support the development of new battery materials for in-house research and client projects.",
+      "highlights": [
+        "Developed a new battery charging profile to maximize and optimize the performance of Li-S batteries.",
+        "Led and developed a project to set a standardized battery capacity calculation for different cathode materials for component teams."
+        ]
+    },
+    {
+      "company": "Duracell",
+      "position": "Research and Development Engineer",
+      "url": "https://www.duracell.com/en-us/",
+      "start_date": "01/05/2020",
+      "end_date": "Present",
+      "summary": "Led laboratory scale evaluation of new-to-Duracell chemical separation and synthesis processes, including experimental design and execution, data analysis through JMP and Microsoft Excel.",
+      "highlights": [
+        "Accountable for the supply of key material samples to external collaborative partners.",
+        "Partnered with Global cross-functional team to integrate technical insights into evolving business strategy.",
+        "Led the evaluation of the processing impacts of future battery materials and cell designs."
+      ]
+    },
+    {
+      "company": "San José State University",
+      "position": "Research  Assistant",
+      "url": "https://sites.google.com/sjsu.edu/cmrl",
+      "start_date": "06/01/2020",
+      "end_date": "12/01/2021",
+      "summary": "Research based on the computational study of Li-Ion conduction mechanisms in solid electrolytes.",
+      "highlights": [
+        "Completed a Research Project on Study of Defects, Phase Stability, and Ionic Conductivity of Li7La3Zr2O12 for Solid-State Battery with Dr. Santosh KC."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Capstone: Applying Project Management in the Real World.",
+      "summary": "A small restaurant chain called Sauce & Spoon is imagined to apply skills of project management in the Real World. The project simulation involves overseeing tablet rollout at two of the restaurant chain's five location as Peta, teh company's first in-house Project Manager. I followed the project through its life cycle: identifying project requirements, negotiating with stakeholders, creating common project documents and working to complete this project in scope, on time, and within budget.",
+      "url": "",
+      "highlights": [
+        "Creating project charter, stakeholder analysis, coalition emails, presentations, customer surveys, data analysis and retrospective reviews to lead and complete the project assigned.",
+        "Implementing project management, problem solving, quality management, effective communication and stakeholder management. ",
+        "Project Documentation through Google Docs, Microsoft Office and Asana."
+      ],
+      "images": [
+        {
+          "img_path": "PortfolioImages/Project charter.png",
+          "caption": "Project Charter"
+        },
+        {
+          "img_path": "PortfolioImages/Stakeholder Analysis.png",
+          "caption": "Stakeholder Analysis"
+        },
+        {
+          "img_path": "PortfolioImages/Pie Chart.png",
+          "caption": "Pie Chart"
+        }
+      ]
+    },
+    {
+      "title": "DFT Study of Solid Electrolyte for LI-ION Battery Application.",
+      "summary": "Density functional theory is used to investigate the atomic, electronic and ionic properties of\nsolid electrolytes in their pristine and doped structures. In addition, the effect of doping Hafnium\n(Hf) and Titanium (Ti) in LLZO was compared through atomic, electronic and ionic\nproperties.",
+      "url": "",
+      "highlights": [
+        "Increasing the amount Ti dopant concentration can help increase the ionic conductivity by reducing the\nactivation energy to 0.48 eV due to extreme lattice distortion.",
+        "The slightly smaller ionic radius of Hf compared to\nZr can help distort the lattice parameter to a more\ncubic structure which has a better ionic conductivity\ncompared to pristine LLZO at room temperature.",
+        "This study sheds light on the atomic level design such as tuning structure and ionic conductivity\nof the solid electrolytes without compromising chemical stability."
+      ],
+      "images": [
+        {
+          "img_path": "PortfolioImages/Charge Density.png",
+          "caption": "Charge Density Calculation."
+        },
+        {
+          "img_path": "PortfolioImages/LLZO Structure.png",
+          "caption": "LLZO Structure generated by VESTA."
+        },
+        {
+          "img_path": "PortfolioImages/LLZO Structure Doped.png",
+          "caption": "Doped LLZO Structures generated by VESTA"
+        }
+      ]
+    }
+  ],
+  "Internships": [
+    {
+      "organization": "IBM Research Lab",
+      "position": "Spring Intern",
+      "url": "https://research.ibm.com/projects/accelerator-technologies",
+      "start_date": "01/01/2020",
+      "end_date": "05/01/2020",
+      "summary": "Interned under Dr. Pedro Arrechea and was a part of Accelerated Materials group under James L. Hedrick",
+      "highlights": [
+        "Prepared polymers from monomers for rapid material development.",
+        "Characterization of polymers through MALDI TOF, DSC, NMR and APC.",
+        "Software utilization to design and manufacture small scale chemical plants for polymer production."
+      ]
+    },
+    {
+      "organization": "Automat Solutions",
+      "position": "R&D Materials Discovery Intern",
+      "url": "https://www.automatsoln.com",
+      "start_date": "08/08/2020",
+      "end_date": "11/14/2021",
+      "summary": "Worked closely with a team including the CEO and CTO to execute and manage multiple projects from start to finish related to battery electrolyte material discovery projects.",
+      "highlights": [
+        "US Patent Application 63194848, “Electrolyte additive and use thereof in secondary lithium batteries”, May 28, 2021\nInventors: Wang, Xiaoliang (Fremont, CA), Wang, Xuejun, (Fremont, CA), Sahoo. Ipshita (Danbury, CT). ",
+        "Improved the quality of battery electrolytes by around 25% by making changes in the assigned DOE.",
+        "Established new high-throughput workflows on materials’ preparation and characterization through INSTRON, Battery\nCyclers (Maccor), Electrochemical Impedance Spectroscopy (EIS) and Cyclic Voltammetry (CV)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "San José State University",
+      "location": "San José, CA",
+      "url": "https://www.sjsu.edu/cme/",
+      "degrees": [
+        "Master of Science in Materials Science and Engineering."
+      ],
+      "gpa_cumulative": "3.4",
+      "graduation_date": "05/26/2021"
+    },
+    {
+      "institution": "Manipal Institute of Technology",
+      "location": "Manipal, Karnataka, India",
+      "url": "https://www.manipal.edu/mit/department-faculty/department-list/chemical.html",
+      "degrees": ["Bachelor of Technology in Chemical Engineering."],
+      "gpa_cumulative": "3.2",
+      "graduation_date": "05/26/2016"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Battery Testing",
+      "proficiency": 90,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Project Management",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Python",
+      "proficiency": 60,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hiking",
+      "summary": "Exploring new terrains",
+      "images": [
+        {
+          "img_path": "PortfolioImages/hiking1.mov",
+          "caption": "Mauna Kea, HI"
+        },
+        {
+          "img_path": "PortfolioImages/hiking2.jpeg",
+          "caption": "Canyon View Trail, CA"
+        }
+      ]
+    },
+    {
+      "name": "Hiking",
+      "summary": "Kathak, Bollywood dance styles.",
+      "images": [
+        {
+          "img_path": "PortfolioImages/Dance1.jpeg",
+          "caption": "Dance Performance"
+        },
+        {
+          "img_path": "PortfolioImages/Dance2.JPG",
+          "caption": "Kathak (Indian Classical dance) performance"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "Certifications": [
+    {
+      "name": "Google Management Certification",
+      "relation": "https://coursera.org/verify/professional-cert/G59TE7HQIJ0C",
+      "img_path": "PortfolioImages/Google_Certification.png",
+      "Certifications": ""
+    },
+    {
+      "name": "Introduction to Battery-Management Systems",
+      "relation": "https://coursera.org/verify/BJZBZGW1MLVK",
+      "img_path": "PortfolioImages/Battery Management.png",
+      "Certifications": ""
+    }
+  ]
+}
